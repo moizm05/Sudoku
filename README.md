@@ -1,1 +1,2 @@
 # Sudoku
+This was a fun project I made using Java Swing. It is a basic Sudoku game with 3 levels, easy, medium, and hard. I implemented background music as well to better enhance user gameplay experience and created a login screen which prompts the user to create an account or login before playing. This allows for the users best scores to be saved in a file with their login and displays their best time for each level. Tried going for an aesthetic cherry blossom look as well to make it as soothing and nice as possible for the user.
